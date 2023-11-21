@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png” group-title=”Bangla”, GTV
 http://172.26.1.3:8089/jamio/gazitv//chunks.m3u8
